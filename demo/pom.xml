@@ -28,12 +28,13 @@
 
     <dependencies>
 
+        <!--
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>2.13.1</version>
         </dependency>
-
+        -->
 
         
 
@@ -53,6 +54,24 @@
             <artifactId>spring-boot-starter-log4j2</artifactId>
         </dependency>
         <!-- Spring boot dependencies end-->
+        
+<!-- JUnit5 -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter</artifactId>
+    <version>5.10.0</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- EasyMock -->
+<dependency>
+    <groupId>org.easymock</groupId>
+    <artifactId>easymock</artifactId>
+    <version>5.2.0</version>
+    <scope>test</scope>
+</dependency>
+
+ 
 <dependency>
   <groupId>com.google.code.gson</groupId>
   <artifactId>gson</artifactId>

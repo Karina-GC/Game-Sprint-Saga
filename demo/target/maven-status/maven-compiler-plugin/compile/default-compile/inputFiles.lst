@@ -1,4 +1,37 @@
-c:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\App.java
-c:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\JsonUtils.java
-c:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\config\Config.java
-c:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\AppSpring.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\dialogs\ProfileSetupDialog.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\components\LeaderboardPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\App.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\PlayerInfoPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Mapping\PlayerMapper.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\BadgeView.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Mapping\SubmissionMapper.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\components\LevelBarPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\PlayerData.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Core\Leaderboard.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\DeadlinePickerPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\BadgeData.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Core\Submission.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\PendingSubmissions.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\Badge.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\Config.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\SubmissionData.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\dialogs\LoadProfileDialog.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\PlayerDataManager.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\JsonUtils.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Controller\SubmissionController.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\screens\ReviewPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Controller\DeveloperNoteController.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Controller\ReviewController.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\components\DeveloperNotePanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\components\CodeDropPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\PlayerDataLoader.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\components\ProfilePanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Core\Player.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\ActionPanel.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\FileManager.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\vnicht benötigte\PlayerView.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Controller\LeaderboardController.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Data\SubmissionDataManager.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\Controller\GameFrameController.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\theme\ThemeManager.java
+C:\Users\kis\OneDrive - Dr. Glinz COVIS GmbH\IU\Java 2\maventest\demo\src\main\java\com\example\demo\UI\screens\GameFrame.java
