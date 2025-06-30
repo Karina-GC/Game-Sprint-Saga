@@ -56,5 +56,5 @@ public class Submission implements Serializable {
     public String toString() {
         return filePath + (reviewed ? " ✔" : "");
     }
-    .
+    
 }
